@@ -265,7 +265,7 @@ async def reply(bot, message):
             img_num = random.randint(1, 99)
             with open(f'images (AI images generateduploads)/image{img_num}.jpg', 'wb') as file:
                 file.write(image_data)
-            await bot.send_photo(message.chat.id, f'images/image{img_num}.jpg',
+            await bot.send_photo(message.chat.id, f'images (AI images generateduploads)/image{img_num}.jpg',
                                  reply_to_message_id=message.id,
                                  reply_markup=Keyboard.kb_main,
             )
