@@ -1,7 +1,7 @@
 ## (GPL) The GNU General Public License ##
 
-## Use it how you want ##
-
 ## Original Bot: @EtoBotchik_Bot ##
 
-### Recommend reading Fusion Brain website for configuring the AI generating images ##
+### Recommend reading the Fusion Brain website for configuring the API's ##
+
+### Uses Pyrogram and BotFather to configure this bot ###
