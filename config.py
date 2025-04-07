@@ -4,4 +4,4 @@ API_TOKEN = 'your_token'
 
 # FusionBrainAPI
 API_KEY = 'api key fushion brain'
-SECRET_KEY = 'scrret key fushion brain too'
+SECRET_KEY = 'scrret key fushion brain'
