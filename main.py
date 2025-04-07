@@ -263,7 +263,7 @@ async def reply(bot, message):
         if images:
             image_data = base64.b64decode(images[0])
             img_num = random.randint(1, 99)
-            with open(f'images/image{img_num}.jpg', 'wb') as file:
+            with open(f'images (AI images generateduploads)/image{img_num}.jpg', 'wb') as file:
                 file.write(image_data)
             await bot.send_photo(message.chat.id, f'images/image{img_num}.jpg',
                                  reply_to_message_id=message.id,
