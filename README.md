@@ -12,11 +12,6 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 - **Scalable:** Built to handle growing demands with modular code.
 - **Secure:** Implements robust measures to keep your bot safe.
 
-## Installation 🛠️
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/LuchKan-Git-Hub/Telegram-Bot.git
-
 ## configuration ⚙️
 1. Open Telegram
 
@@ -33,3 +28,8 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 - **Pyrogram:** This library powers the bot's interaction with Telegram, enabling seamless API communication and bot functionalities.
 - **JSON Files:** Used for storing and managing configurations and data in a structured and lightweight format.
 - **Fusion Brain:** Implements advanced AI image capabilities.
+
+- ## Installation 🛠️
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/LuchKan-Git-Hub/Telegram-Bot.git
