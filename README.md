@@ -12,6 +12,11 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 - **Scalable:** Built to handle growing demands with modular code.
 - **Secure:** Implements robust measures to keep your bot safe.
 
+## Built With 🛠️
+- **Pyrogram:** This library powers the bot's interaction with Telegram, enabling seamless API communication and bot functionalities.
+- **JSON Files:** Used for storing and managing configurations and data in a structured and lightweight format.
+- **Fusion Brain:** Implements advanced AI image capabilities.
+
 ## configuration ⚙️
 1. Open Telegram
 
@@ -23,11 +28,6 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 4. Also, check FusionBrain for FusionBrain_AI.py
    ```link
    https://fusionbrain.ai/docs/en/doc/api-dokumentaciya/
-
-## Built With 🛠️
-- **Pyrogram:** This library powers the bot's interaction with Telegram, enabling seamless API communication and bot functionalities.
-- **JSON Files:** Used for storing and managing configurations and data in a structured and lightweight format.
-- **Fusion Brain:** Implements advanced AI image capabilities.
 
 - ## Installation 🛠️
 1. **Clone this repository:**
