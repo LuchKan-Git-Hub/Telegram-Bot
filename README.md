@@ -6,18 +6,18 @@
 
 Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify and enhance your interaction with Telegram by automating tasks, providing useful features, and making your experience seamless.
 
-- ## Features 🚀
+## Features 🚀
 - **Customizable Commands:** Add your commands to suit your needs.
 - **User-friendly Code:** Simple and intuitive usage for all levels of users.
 - **Scalable:** Built to handle growing demands with modular code.
 - **Secure:** Implements robust measures to keep your bot safe.
 
-- ## Built With 🛠️
+## Built With 🛠️
 - **Pyrogram:** This library powers the bot's interaction with Telegram, enabling seamless API communication and bot functionalities.
 - **JSON Files:** Used for storing and managing configurations and data in a structured and lightweight format.
 - **Fusion Brain:** Implements advanced AI image capabilities.
 
-- ## configuration ⚙️
+## configuration ⚙️
 1. Open Telegram
 
 2. Search for bot-father and get to the token
@@ -29,7 +29,7 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
    ``` link
    https://fusionbrain.ai/docs/en/doc/api-dokumentaciya/
 
-- ## Installation 🛠️
+## Installation 🛠️
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/LuchKan-Git-Hub/Telegram-Bot.git
