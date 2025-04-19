@@ -1,5 +1,6 @@
-# Telegram Bot
+![Description of Photo]("C:\Users\user\Downloads\Pyrogram.jpg")
 
+# Telegram Bot
 Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify and enhance your interaction with Telegram by automating tasks, providing useful features, and making your experience seamless.
 
 ## Features 🚀
@@ -7,6 +8,11 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 - **User-friendly code:** Simple and intuitive usage for all levels of users.
 - **Scalable:** Built to handle growing demands with modular code.
 - **Secure:** Implements robust measures to keep your bot safe.
+
+## Built With 🛠️
+- **Pyrogram:** This library powers the bot's interaction with Telegram, enabling seamless API communication and bot functionalities.
+- **JSON Files:** Used for storing and managing configurations and data in a structured and lightweight format.
+- **Fusion Brain:** Implements advanced AI image capabilities.
 
 ## Installation 🛠️
 1. Clone this repository:
@@ -22,4 +28,3 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 5. Also, check FusionBrain for FusionBrain_AI.py
    ```link
    https://fusionbrain.ai/docs/en/doc/api-dokumentaciya/
-
