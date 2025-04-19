@@ -22,4 +22,4 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 5. Also, check FusionBrain for FusionBrain_AI.py
    ```link
    https://fusionbrain.ai/docs/en/doc/api-dokumentaciya/
-   
+
