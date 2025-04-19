@@ -1,7 +1,6 @@
-.. image:: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2mF9vSCghP634W8z8FshKsP0U4wSqwHucKBd01ezVWG3Hsr0Mh1ZhcnpXIMPruAD8GeUS5MjyfLjNhXYhu7VyGVT4l6rVTNGHY1j4_4GBkQhztWTIfwCkb4-7g_MBtL2cqJ_G4lYOtiRw/s1600/photo_2019-07-01_18-49-10.jpg
-   :align: center
-   :target: https://python-telegram-bot.org
-   :alt: python-telegram-bot Logo
+<a href="https://python-telegram-bot.org">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2mF9vSCghP634W8z8FshKsP0U4wSqwHucKBd01ezVWG3Hsr0Mh1ZhcnpXIMPruAD8GeUS5MjyfLjNhXYhu7VyGVT4l6rVTNGHY1j4_4GBkQhztWTIfwCkb4-7g_MBtL2cqJ_G4lYOtiRw/s1600/photo_2019-07-01_18-49-10.jpg" alt="Python Telegram Bot Logo" style="width:300px; border-radius:15px;">
+</a>
 
 # Telegram Bot
 
@@ -19,16 +18,18 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 - **Fusion Brain:** Implements advanced AI image capabilities.
 
 ## Installation 🛠️
-1. Clone this repository:
+1. **Clone this repository:**
    ```bash
    git clone https://github.com/LuchKan-Git-Hub/Telegram-Bot.git
-2. Open Telegram
 
-3. Search for bot-father and get to the token
+## configuration ⚙️
+1. Open Telegram
 
-4. Insert the token in the config.py, also use this for more information
+2. Search for bot-father and get to the token
+
+3. Insert the token in the config.py, also use this for more information
    ```link
    https://docs.pyrogram.org/
-5. Also, check FusionBrain for FusionBrain_AI.py
+4. Also, check FusionBrain for FusionBrain_AI.py
    ```link
    https://fusionbrain.ai/docs/en/doc/api-dokumentaciya/
