@@ -23,13 +23,20 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 2. Search for bot-father and get to the token
 
 3. Insert the token in the config.py, also use this for more information
-   ```link
+   ``` link
    https://docs.pyrogram.org/
 4. Also, check FusionBrain for FusionBrain_AI.py
-   ```link
+   ``` link
    https://fusionbrain.ai/docs/en/doc/api-dokumentaciya/
 
 - ## Installation 🛠️
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/LuchKan-Git-Hub/Telegram-Bot.git
+2. **install pyrogram**
+   ```bash
+   python -m pip install-- -upgrade pip
+3. **install pyrogram and tgcrypto (tgcrypto optional for better performance)**
+   ```bash
+   pip install pyrogram tgcrypto
+   
