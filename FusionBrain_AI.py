@@ -21,16 +21,18 @@ async def generate(prompt):
         "generateParams": {"query": prompt}
     }
     files = {
-        'model_id': (None, 4),
+        'pipeline_id': (None, 'a17740da-e8a0-4816-876a-74326c5c4cef'),
         'params': (None, json.dumps(params), 'application/json')
     }
-    response = requests.post(URL + 'key/api/v1/text2image/run', headers=HEADERS, files=files)
+    response = requests.post(URL + 'key/api/v1/pipeline/run',
+                             headers=HEADERS, files=files)
     data = response.json()
     attempts = 0
     while attempts < 40:
-        response = requests.get(URL + 'key/api/v1/text2image/status/' + data['uuid'], headers=HEADERS)
+        response = requests.get(URL + 'key/api/v1/pipeline/status/' +
+                                data['uuid'], headers=HEADERS)
         data = response.json()
         if data['status'] == 'DONE':
-            return data['images']
+            return data['result']['files']
         attempts += 1
         await asyncio.sleep(3)

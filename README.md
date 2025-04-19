@@ -31,7 +31,8 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 ## Installation 🛠️
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/LuchKan-Git-Hub/Telegram-Bot.git
+   git clone https://github.com/LuchKan-Git-Hub/Telegram-Bot
+   cd Telegram-Bot
 2. **Upgrade Python and pip**
    ```bash
    python -m pip install --upgrade pip

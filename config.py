@@ -1,7 +1,7 @@
 API_ID = 2040
 API_HASH = 'b18441a1ff607e10a989891a5462e627'
-API_TOKEN = 'your_token'
+API_TOKEN = 'token' # insert token from bot father
 
 # FusionBrainAPI
-API_KEY = 'api key fushion brain'
-SECRET_KEY = 'scrret key fushion brain'
+API_KEY = 'API_KEY' # insert from FusionBrain
+SECRET_KEY = 'SECRET_KEY' # insert from FusionBrain
