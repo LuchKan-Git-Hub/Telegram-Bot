@@ -4,7 +4,7 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 
 ## Features 🚀
 - **Customizable Commands:** Add your commands to suit your needs.
-- **User-friendly Interface:** Simple and intuitive usage for all levels of users.
+- **User-friendly code:** Simple and intuitive usage for all levels of users.
 - **Scalable:** Built to handle growing demands with modular code.
 - **Secure:** Implements robust measures to keep your bot safe.
 
