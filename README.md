@@ -35,7 +35,7 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
    git clone https://github.com/LuchKan-Git-Hub/Telegram-Bot.git
 2. **install pyrogram**
    ```bash
-   python -m pip install-- -upgrade pip
+   python -m pip install --upgrade pip
 3. **install pyrogram and tgcrypto (tgcrypto optional for better performance)**
    ```bash
    pip install pyrogram tgcrypto
