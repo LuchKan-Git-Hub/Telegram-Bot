@@ -14,7 +14,7 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
 
 ## Built With 🛠️
 - **Pyrogram:** This library powers the bot's interaction with Telegram, enabling seamless API communication and bot functionalities.
-- **JSON Files:** Used for storing and managing configurations and data in a structured and lightweight format.
+- **SQLite Database**: A lightweight, self-contained, and efficient SQL-based solution for managing configurations and storing data.
 - **Fusion Brain:** Implements advanced AI image capabilities.
 
 ## configuration ⚙️
@@ -38,5 +38,4 @@ Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify a
    python -m pip install --upgrade pip
 3. **install pyrogram and tgcrypto (tgcrypto optional for better performance)**
    ```bash
-   pip install pyrogram tgcrypto
-   
+   pip install pyrogram tgcrypto kandinsky.py
