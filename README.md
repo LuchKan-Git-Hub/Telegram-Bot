@@ -4,38 +4,38 @@
 
 # Telegram Bot
 
-Welcome to the **Telegram Bot** repository! 🎉 This project aims to simplify and enhance your interaction with Telegram by automating tasks, providing useful features, and making your experience seamless.
+Welcome to the **Telegram Bot** repository! 🎉  
+
+This project simplifies and enhances your interaction with Telegram. It automates tasks, provides fun features, and gives you a hands-on way to explore Python and bot development.  
+
+It’s also a **learning-friendly open-source project**, perfect for beginners or anyone curious about Python, async programming, and Telegram API.
+
+---
 
 ## Features 🚀
-- **Customizable Commands:** Add your commands to suit your needs.
-- **User-friendly Code:** Simple and intuitive usage for all levels of users.
-- **Scalable:** Built to handle growing demands with modular code.
-- **Secure:** Implements robust measures to keep your bot safe.
+- **Custom Commands:** `/start`, `/info`, `/game`, `/time`, `/my_id`, `/image`, `/rock_paper_scissors`, `/quest`, and more.
+- **Interactive Games:** Rock-Paper-Scissors, guess-the-number, and small quests with multiple endings.
+- **AI Image Generation:** Generate images using `FusionBrain_AI`.
+- **User Tracking:** Manages users with SQLite, including coins and inventory.
+- **Buttons & Inline Keyboards:** Easy-to-use interactive buttons, so users don’t have to type commands.
+- **Beginner-Friendly Code:** Modular, commented, and easy to read for anyone learning Python.
+
+---
 
 ## Built With 🛠️
-- **Pyrogram:** This library powers the bot's interaction with Telegram, enabling seamless API communication and bot functionalities.
-- **SQLite Database**: A lightweight, self-contained, and efficient SQL-based solution for managing configurations and storing data.
-- **Fusion Brain:** Implements advanced AI image capabilities.
+- **[Pyrogram](https://docs.pyrogram.org/):** Powers bot interaction with Telegram API.
+- **SQLite Database:** Stores user info, coins, and inventory in a lightweight SQL database.
+- **Fusion Brain AI:** Provides image generation functionality.
+- **Kandinsky.py:** Optional for advanced AI features.
+- **Python 3.10+**: Uses async features and modern Python libraries.
 
-## configuration ⚙️
-1. Open Telegram
+---
 
-2. Search for bot-father and get to the token
+## Configuration ⚙️
+1. Open Telegram and search for **BotFather** to create a new bot and get your **API token**.
+2. Insert the token in `config.py`:
 
-3. Insert the token in the config.py, also use this for more information
-   ``` link
-   https://docs.pyrogram.org/
-4. Also, check FusionBrain for FusionBrain_AI.py
-   ``` link
-   https://fusionbrain.ai/docs/en/doc/api-dokumentaciya/
-## Installation 🛠️
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/LuchKan-Git-Hub/Telegram-Bot
-   cd Telegram-Bot
-2. **Upgrade Python and pip**
-   ```bash
-   python -m pip install --upgrade pip
-3. **install pyrogram and tgcrypto (tgcrypto optional for better performance)**
-   ```bash
-   pip install pyrogram tgcrypto kandinsky.py
+```python
+API_ID = YOUR_API_ID
+API_HASH = "YOUR_API_HASH"
+API_TOKEN = "YOUR_BOT_TOKEN"
