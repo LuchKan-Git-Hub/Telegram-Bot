@@ -1,4 +1,4 @@
-<a href="https://python-telegram-bot.org">
+<a href="https://pypi.org/project/Pyrogram/">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2mF9vSCghP634W8z8FshKsP0U4wSqwHucKBd01ezVWG3Hsr0Mh1ZhcnpXIMPruAD8GeUS5MjyfLjNhXYhu7VyGVT4l6rVTNGHY1j4_4GBkQhztWTIfwCkb4-7g_MBtL2cqJ_G4lYOtiRw/s1600/photo_2019-07-01_18-49-10.jpg" alt="Python Telegram Bot Logo" style="width:300px; border-radius:15px;">
 </a>
 
